@@ -1,6 +1,8 @@
 # Hi, I'm Muideen Adewale 👋
 
-Senior Software Engineer focused on building scalable backend systems and APIs.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;ASP.NET+Core+Developer;Node.js+Backend+Engineer;Fintech+Systems+Builder)
+
+Senior Software Engineer specializing in backend systems and scalable APIs.
 
 ## 🚀 Tech Stack
 
