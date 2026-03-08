@@ -24,7 +24,7 @@ Senior Software Engineer specializing in backend systems and scalable APIs.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muisoft&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muisoft&show_icons=true&theme=tokyonight)
 
 ## Contact
 
